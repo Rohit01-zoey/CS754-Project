@@ -1,2 +1,3 @@
 # CS754-Project
 Implementation of the paper "How Realistic is Photorealistic" published in IEEE. The paper can be found [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1381784&tag=1)
+The answer is, it is not that realistic
